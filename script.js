@@ -2,7 +2,7 @@
   var openComment, styles, time, writeStyleChar, writeStyles;
 
   styles = `/* 
- * "Kishan" v1.0.5
+ * "zed" v1.0.5
  * Robot rights protected under BOT License
  * Authored by Kishan Mishra
  */
@@ -60,7 +60,7 @@ pre em:not(.comment) { font-style: normal; }
 
 
 /* 
- * Let's build my little pen heart.
+ * Let's build my little heart.
  */ 
 
 
@@ -109,7 +109,7 @@ pre { left: 50%; }
 }
 
 
-/* It needs some depth  */
+/* You know who's inside it ?  */
 
 #heart::after { 
   box-shadow:
@@ -122,10 +122,10 @@ pre { left: 50%; }
 }
 
 
-/* Makin it mine. */
+/* Well i cant hear you , lemme reveal  */
 
 #heart i::before {
-  content: 'Kishan';
+  content: 'You';
   position: absolute;
   z-index: 9;
   width: 100%;
@@ -133,7 +133,7 @@ pre { left: 50%; }
   font-style: normal;
   color: rgba(255,255,255,0.8);
   font-weight: 100;
-  font-size: 30px;
+  font-size: 40px;
   text-shadow: -1px -1px 0px rgba(0,0,0,0.2);
 }
 
@@ -237,13 +237,13 @@ pre { left: 50%; }
  *
  * We did it!       
  *
- * I mean *I* did it, but you know, whatever...
- * jake albaugh definitely did not have anything 
- * to do with this.
- 
+ * I mean *I* did it, but you know...
  * 
- * See you later!
- *  
+ * I love u ❤ !
+ * 
+ * See you later !
+ * 
+ * ~ _vayn3_
  */`;
 
   openComment = false;
