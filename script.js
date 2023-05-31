@@ -2,7 +2,7 @@
   var openComment, styles, time, writeStyleChar, writeStyles;
 
   styles = `/* 
- * "zed" v1.0.5
+ * "vayne" 
  * Robot rights protected under BOT License
  * Authored by Kishan Mishra
  */
@@ -17,7 +17,7 @@ body {
  *
  * ...hello?            
  *
- * Oh hai! It's me, Kishan Mishra.         
+ * Hi! It's me, Kishan Mishra.         
  *
  * I'm just sitting here coding away.            
  *
